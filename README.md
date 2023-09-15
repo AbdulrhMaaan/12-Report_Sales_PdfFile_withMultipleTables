@@ -1,1 +1,12 @@
 # 12-Report_Sales_PdfFile_withMultipleTables
+
+
+
+=Data Source : Single File PDF With Import Mode
+
+=Create Fuction to deal with multiple table in File 
+To save time of Repeating Steps of transformation 
+
+= Apply ETL , And Create Visualization 
+
+= Apply PieChart , Table, Colum Chart ,Line Chart ,Cards
